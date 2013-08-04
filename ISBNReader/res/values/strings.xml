@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BarcodScanningApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan">Scan</string>
+    <string name="search">Search Books</string>
+    <string name="list">Enter ISBN</string>
+    <string name="found">Found on the back of the book</string>
+    <string name="post">Post Book</string>
+    
+     <string name="search_hint">Search by ISBN, course, or title</string>
+    <string name="app_label">Search for books</string>
+
+</resources>
